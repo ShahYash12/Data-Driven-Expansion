@@ -105,5 +105,5 @@ This project reflects **how financial data analytics directly influences high-le
 Graduate Student – Engineering Management  
 University of Massachusetts Amherst  
 
-📫 [LinkedIn](https://www.linkedin.com) *(insert actual link)*  
-✉️ yash@email.com *(replace with your real email)*
+📫 [LinkedIn](www.linkedin.com/in/yashshah033) 
+✉️ yashy3691@email.com 
